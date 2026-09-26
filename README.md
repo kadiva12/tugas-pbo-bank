@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tugas-pbo-bank
 
 In BankTest.java, Scanner is used to read input typed by the user while the program is running, instead of having the customer names fixed in the code.
@@ -16,3 +17,6 @@ This code reads the text that user types
 
 scanner.close();
 This code close the scaanner when it we are done with it
+=======
+# tugas-pbo-bank
+>>>>>>> 2fe1ca22a9dadb86922af9122af4d9230d46fc55
