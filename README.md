@@ -3,8 +3,6 @@
 
 In BankTest.java, Scanner is used to read input typed by the user while the program is running, instead of having the customer names fixed in the code.
 
-![Screenshot](Screenshot bankcode.png)
-
 Scanner scanner = new Scanner(System.in);
 This code creates a Scanner that will shows the input that user types
 
